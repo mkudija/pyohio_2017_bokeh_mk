@@ -27,3 +27,35 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+This includes material adapted from the following Open Source
+repositories. You can view the source code along with their license
+information below. I acknowledge and am grateful to these developers for
+their open source contributions.
+
+Projects: Bokeh, Bokeh-Notebooks, & Datashader
+https://github.com/bokeh/bokeh
+https://github.com/bokeh/bokeh-notebooks
+https://github.com/bokeh/datashader
+Copyright (c) 2012, Continuum Analytics, Inc.
+All rights reserved.
+License (3-Clause BSD)
+https://github.com/bokeh/bokeh/blob/master/LICENSE.txt
+https://github.com/bokeh/bokeh-notebooks/blob/master/LICENSE.txt
+https://github.com/bokeh/datashader/blob/master/LICENSE.txt
+
+Project: “Interactive Data Visualization with HoloViews & Bokeh” 
+SciPy 2017 Tutorial
+https://github.com/ioam/scipy-2017-holoviews-tutorial
+Copyright (c) 2017, IOAM
+All rights reserved.
+License (3-Clause BSD)
+https://github.com/ioam/scipy-2017-holoviews-tutorial/blob/master/LICENSE
+
+Project: Bokeh tutorial at PyOhio2017
+https://github.com/StevenCHowell/pyohio_2017_bokeh
+Copyright (c) 2017, Steven C. Howell
+All rights reserved.
+License (3-Clause BSD)
+https://github.com/StevenCHowell/pyohio_2017_bokeh/blob/master/LICENSE
