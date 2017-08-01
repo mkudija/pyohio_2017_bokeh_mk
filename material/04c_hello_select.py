@@ -1,3 +1,6 @@
+# widget documentation:
+# http://bokeh.pydata.org/en/latest/docs/user_guide/interaction/widgets.html#select
+
 # 0. imports
 from bokeh.io import curdoc
 from bokeh.layouts import column
